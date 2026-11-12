@@ -1,0 +1,21 @@
+{
+ "name": "fonts-dejavu",
+ "version": "2.37",
+ "license": "Bitstream Vera License (free); public domain changes",
+ "homepage": "https://dejavu-fonts.github.io",
+ "licenses": [
+  "LICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [
+  "dejavu-fonts-ttf-2.37.tar.bz2"
+ ],
+ "desc": "DejaVu fonts (Sans, Serif, Mono): TrueType fonts for Qt and other programs",
+ "file": "fonts-dejavu-2.37.tpkg",
+ "size": 5388481,
+ "sha256": "e8e33a08d7010c7ac9a7bd7a3646d01298475902e3859051bbb9313e5faa0a2f",
+ "unpacked": 10208608,
+ "min_build": 618,
+ "depends": [],
+ "commands": {}
+}
